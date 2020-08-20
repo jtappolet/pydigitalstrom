@@ -10,6 +10,9 @@ test.py
 # python
 *.pyc
 
+# intellij
+.idea
+
 # pycharm
 .idea/
 .pycharm_helpers/
